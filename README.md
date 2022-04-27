@@ -1,11 +1,12 @@
 # ResizeCompression
 
-This repository is the implementation of paper: Li-Heng Chen, Christos G. Bampis, Zhi Li, Lukáš Krasula and Alan C. Bovik, "[Estimating the Resize Parameter in End-to-end Learned Image Compression](https://link-url-here.org)"
+This repository is the implementation of paper: Li-Heng Chen, Christos G. Bampis, Zhi Li, Lukáš Krasula and Alan C. Bovik, "[Estimating the Resize Parameter in End-to-end Learned Image Compression](https://arxiv.org/abs/2204.12022)"
 
 ## Environment
-- python3
+- python3.7.x
 - Tensorflow==1.15.0
-- Tensorflow-Compression==1.3
+### Dependencies
+1. [Tensorflow Compression](https://github.com/tensorflow/compression)
 ```
 pip install tensorflow-compression==1.3
 ```
