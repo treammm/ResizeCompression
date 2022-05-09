@@ -14,3 +14,6 @@ Columns 8 and 9 in `study_results.csv` stores the subjective scores obtained fro
 
 ## Objective scores
 Columns 10--15 in `study_results.csv` stores the objective scores (PSNR_Y, VMAF0.6.1, and, VIF_pixel) obtained from image pairs.
+
+## Demo
+We also provide a python notebook demonstration. `2afc_demo.ipynb` shows how to download the subjective scores, and calculate 2AFC scores with PSNR_rgb (calculated by `cv2`) or the pixel domain VIF (pre-calculated in `study_results.csv`).

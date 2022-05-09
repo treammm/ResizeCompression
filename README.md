@@ -26,4 +26,4 @@ You may also load the notebook `xxx.ipynp` to Google Colab from this GitHub repo
 2. Training code of bls2017 +Resize-Compress
 3. Test code (encode/decode) of bls2017 +Resize-Compress
 4. Colab demo
-5. Subjective study data
+5. ~Subjective study data~
