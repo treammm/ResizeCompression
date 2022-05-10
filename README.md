@@ -22,7 +22,7 @@ You may also load the notebook `xxx.ipynp` to Google Colab from this GitHub repo
 3. Start Colabing!
 
 ## Work in progress
-1. Network and warping utilities
+1. ~Network and warping utilities~
 2. Training code of bls2017 +Resize-Compress
 3. Test code (encode/decode) of bls2017 +Resize-Compress
 4. Colab demo
