@@ -1,0 +1,2 @@
+numpy < 1.20.0
+tensorflow-compression == 1.3

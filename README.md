@@ -10,6 +10,10 @@ This repository is the implementation of paper: Li-Heng Chen, Christos G. Bampis
 ```
 pip install tensorflow-compression==1.3
 ```
+2. The latest version of numpy (>=1.21.x) is not compatible with `tf.meshgrid`. Instead, numpy 1.19.x works for me.
+```
+pip install numpy==1.19.5
+```
 Or just do
 ```
 pip install -r requirements.txt
@@ -23,7 +27,7 @@ You may also load the notebook `xxx.ipynp` to Google Colab from this GitHub repo
 
 ## Work in progress
 1. ~Network and warping utilities~
-2. Training code of bls2017 +Resize-Compress
+2. ~Training code of bls2017 +Resize-Compress~
 3. Test code (encode/decode) of bls2017 +Resize-Compress
 4. Colab demo
 5. ~Subjective study data~
