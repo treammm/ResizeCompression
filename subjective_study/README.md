@@ -3,8 +3,8 @@
 This folder provides the results of human subject study in Section IV-E of our paper.
 
 ## Download the (cropped) reference and compressed images
-`wget -O study_images_crop_all.zip https://utexas.box.com/shared/static/izd3wopcohce7htgox0cb55v5netni7l.zip`
-`unzip study_images_crop_all.zip`
+`wget -O study_images_crop_all.zip https://utexas.box.com/shared/static/izd3wopcohce7htgox0cb55v5netni7l.zip`<br />
+`unzip study_images_crop_all.zip`<br />
 `rm -r study_images_crop_all.zip __MACOSX`
 
 ## Subjective scores
