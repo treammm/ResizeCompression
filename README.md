@@ -20,9 +20,9 @@ pip install -r requirements.txt
 ```
 
 ## Colab demo
-You may also load the notebook `xxx.ipynp` to Google Colab from this GitHub repository: 
+In the `demo` folder, we provide python notebook demo on how to execute the training (testing WIP) codes. You may also load the notebooks `*.ipynp` to Google Colab from this GitHub repository: 
 1. Navigate to http://colab.research.google.com/github.
-2. Enter the path `TBD` in the "Enter a GitHub URL or search by organization or user" field
+2. Enter the link (https://github.com/treammm/ResizeCompression/tree/main/demo) in the "Enter a GitHub URL or search by organization or user" field
 3. Start Colabing!
 
 ## Work in progress
